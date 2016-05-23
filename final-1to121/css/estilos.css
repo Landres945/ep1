@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+#playb
+{
+
+
+  height: 70px;
+  width: 70px;
+  margin: auto;
+  background-color: black;
+  border-radius: 50%;
+  border-color: black;
+  border-width: inherit;
+  cursor: pointer;
+  display: inline-block;
+}
+#tiempo
+{
+  color: white;
+  margin: auto;
+  font-style: italic;
+  font-size: 25px;
+  display: inline-block;
+}
+#objetivo
+{
+  margin: auto;
+  font-style: italic;
+  font-size: 25px;
+  color: white;
+  height: 135px;
+  width: 135px;
+  display: inline-block;
+}
+
+#salir
+{
+  height: 70px;
+  width: 70px;
+  margin: left;
+  cursor: pointer;
+  background-color: black;
+  border-radius: 50%;
+  border-color: black;
+  border-width: inherit;
+  display: inline-block;
+}
+#ayuda
+{
+
+  margin: auto;
+  cursor: pointer;
+  height: 125px;
+  width: 125px;
+  font-size: 25px;
+  color: white;
+  display:block;
+}
