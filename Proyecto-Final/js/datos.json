@@ -1,0 +1,14 @@
+[
+	{
+		"nombre" 	: "SOL",
+		"descripcion"	: "es una estrella de tipo-G de la secuencia principal y clase de luminosidad V
+    que se encuentra en el centro del sistema solar y constituye la mayor fuente de radiación
+    electromagnética de este sistema planetario.
+    Es una bola esférica casi perfecta de plasma,
+    con un movimiento convectivo interno que genera un campo magnético a través de un proceso de dinamo.
+    Cerca de tres cuartas partes de la masa del Sol constan de hidrógeno; el resto es principalmente helio,
+    con cantidades mucho más pequeñas de elementos, incluyendo el oxígeno, carbón, neón y hierro.
+    Se formó hace aproximadamentae 4600 millones de años a partir del colapso gravitacional de la materia dentro de una región de una gran nube molecular. ",
+		"diametro"	: "1 392 000 km (~1,4 × 109 m)",
+	}
+]
